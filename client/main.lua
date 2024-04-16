@@ -123,7 +123,7 @@ end)
 
 -- Register Key
 lib.addKeybind({
-    name = 'toggleseatbelt',
+    name = 'mri_Qtoggleseatbelt',
     description = locale('toggleCommand'),
     defaultKey = config.keybind,
     onPressed = function()
